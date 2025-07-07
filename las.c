@@ -14,5 +14,6 @@ int main(){
 	char s1[100],s2[100];
 	gets(s1);
 	strrev(s1,s2);
+	printf("hi");
 	printf("%s",s1);
 }
